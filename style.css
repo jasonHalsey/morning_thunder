@@ -1,0 +1,14 @@
+/*
+Theme Name: Morning Thunder 2.0
+Theme URI: http://readanddigest.elated-themes.com/
+Description: A child theme of Read and Digest Theme
+Author: Halsey Design/Elated Themes
+Author URI: http://themeforest.net/user/elated-themes
+Version: 1.1
+Text Domain: readanddigest
+Template: readanddigest
+*/
+/* line 2, scss/partials/_related-posts.scss */
+.eltdf-related-post .eltdf-related-info-section {
+  display: none !important;
+}
